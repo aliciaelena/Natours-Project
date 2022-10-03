@@ -34,3 +34,13 @@ body {
   background-position: top;
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
+
+.logo {
+  width: 70px;
+}
+
+.logo-header {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+}
